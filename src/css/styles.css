@@ -28,6 +28,11 @@
   box-sizing: border-box;
 }
 
+.link {
+  display: block;
+  text-decoration: underline;
+}
+
 .gallery {
   list-style-type: none;
   display: flex;
